@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Designed By Surender 
+Contact 9150411430
+Email : darsuren121@gmail.com
